@@ -8,7 +8,7 @@ export function UsedSpaceWidget() {
         </p>
       </div>
       <div className="h-2 rounded-full bg-violet-100">
-        <div className="h-2 w-4/5 rounded-full bg-violet-600"></div>
+        <div className="h-2 w-4/5 rounded-full bg-violet-600" />
       </div>
       <div className="space-x-3 ">
         <button
