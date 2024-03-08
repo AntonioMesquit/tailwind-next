@@ -16,7 +16,12 @@ const config: Config = {
       },
       colors: {
         antonio: '#8257e6',
-        italo: '#8245',
+        violet: {
+          25: '#fcfaff',
+        },
+      },
+      borderWidth: {
+        6: '6px',
       },
     },
   },
